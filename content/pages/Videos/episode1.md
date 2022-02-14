@@ -1,8 +1,12 @@
 ---
 content_type: page
+learning_resource_types:
+- Videos
 parent_title: Videos
+parent_type: SupplementalResourceSection
 parent_uid: c94cd5fc-7beb-30c8-579b-9915475af643
 title: 'Episode 1: Introduction and Overview'
+type: SupplementalResourceSection
 uid: 88acfb94-6f43-ab41-6a23-058d3396da6a
 ---
 

@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Episode 2: What the Universe Is Made Of'
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Episode 2. What the Universe Is Made Of
 uid: ebca74ab-d90d-db67-4e32-f89ba110122b

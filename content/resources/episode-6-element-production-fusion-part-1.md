@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: "Episode 6: Element Production (Fusion)\u2014Part 1"
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Episode 6: Element Production (Fusion) - Part 1'
 uid: 2fea7409-7457-1568-eab7-8a9d5052c03a

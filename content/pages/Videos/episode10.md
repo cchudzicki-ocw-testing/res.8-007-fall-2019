@@ -1,8 +1,12 @@
 ---
 content_type: page
+learning_resource_types:
+- Videos
 parent_title: Videos
+parent_type: SupplementalResourceSection
 parent_uid: c94cd5fc-7beb-30c8-579b-9915475af643
 title: 'Episode 10: Telescopes and Observing'
+type: SupplementalResourceSection
 uid: 1cd30558-ca8b-3129-0a02-cf26c8cde827
 ---
 

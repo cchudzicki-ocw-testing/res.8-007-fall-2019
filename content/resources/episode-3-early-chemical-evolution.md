@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Episode 3: Early Chemical Evolution'
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Episode 3: Early Chemical Evolution'
 uid: 5319ab15-b95d-bfbf-eec1-2b110cf316b2

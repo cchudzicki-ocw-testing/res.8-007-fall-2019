@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Episode 5: Stellar Archaeology'
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Episode 5: Stellar Archaeology'
 uid: 347140f8-e602-f263-aa6e-b9d2ccc53e0f

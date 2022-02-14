@@ -8,7 +8,11 @@ image_metadata:
     \ questions."
   credit: (Image from Prof. Frebel's video.)
   image-alt: The Milky Way poised above an observatory.
+learning_resource_types: []
+parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 resourcetype: Image
 title: Chile telescope
+type: OCWImage
 uid: c093ea2a-6a32-6d6a-5573-69d0c9247b78
 ---

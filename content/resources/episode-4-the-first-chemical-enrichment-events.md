@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Episode 4: The First Chemical Enrichment Events'
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Episode 4: The First Chemical Enrichment Events'
 uid: 9f8b720f-c11f-9163-73c9-3c98f8a6aa4c

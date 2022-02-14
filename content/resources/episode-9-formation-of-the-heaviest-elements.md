@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Episode 9: Formation of the Heaviest Elements'
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Episode 9: Formation of the Heaviest Elements'
 uid: 76f8cf46-ee18-662c-1970-a0ae17905c99
