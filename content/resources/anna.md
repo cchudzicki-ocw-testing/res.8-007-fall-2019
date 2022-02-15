@@ -13,6 +13,5 @@ parent_title: Videos
 parent_type: SupplementalResourceSection
 resourcetype: Image
 title: Anna.jpg
-type: OCWImage
 uid: ea6efa42-4976-ad67-948c-e28ddce87dd4
 ---

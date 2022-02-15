@@ -6,7 +6,6 @@ parent_title: Videos
 parent_type: SupplementalResourceSection
 parent_uid: c94cd5fc-7beb-30c8-579b-9915475af643
 title: 'Episode 8: Spectroscopy '
-type: SupplementalResourceSection
 uid: db4cc077-09fd-5d79-e299-288b2897a53b
 ---
 

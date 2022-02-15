@@ -6,7 +6,6 @@ parent_title: Videos
 parent_type: SupplementalResourceSection
 parent_uid: c94cd5fc-7beb-30c8-579b-9915475af643
 title: 'Episode 5: Stellar Archaeology'
-type: SupplementalResourceSection
 uid: fbbdc769-1d23-2c30-a32f-80e9ef7779ac
 ---
 

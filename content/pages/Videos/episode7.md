@@ -6,7 +6,6 @@ parent_title: Videos
 parent_type: SupplementalResourceSection
 parent_uid: c94cd5fc-7beb-30c8-579b-9915475af643
 title: "Episode 7: Element Production (Fusion)\u2014Part 2"
-type: SupplementalResourceSection
 uid: 6c842392-b69e-7882-ed15-ba63845a8564
 ---
 
