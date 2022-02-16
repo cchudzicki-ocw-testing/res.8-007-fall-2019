@@ -9,6 +9,7 @@ image_metadata:
   credit: (Image from Prof. Frebel's video.)
   image-alt: The Milky Way poised above an observatory.
 learning_resource_types: []
+ocw_type: OCWImage
 parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
 resourcetype: Image

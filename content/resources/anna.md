@@ -9,6 +9,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Videos
+ocw_type: OCWImage
 parent_title: Videos
 parent_type: SupplementalResourceSection
 resourcetype: Image
