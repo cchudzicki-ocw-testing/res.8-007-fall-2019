@@ -14,7 +14,6 @@ The oldest stars in the Milky Way are 13 billion years old and still shining tod
 
 {{< resource 347140f8-e602-f263-aa6e-b9d2ccc53e0f >}}
 
-Associated Book Chapter from _Searching for the Oldest Stars: Ancient Relics from the Early Universe_
------------------------------------------------------------------------------------------------------
+**Associated Book Chapter from** _**Searching for the Oldest Stars: Ancient Relics from the Early Universe**_
 
-*   Chapter 1: What Is Stellar Archaeology?
+- Chapter 1: What Is Stellar Archaeology?
