@@ -14,7 +14,7 @@ The first stars forged metals heavier than hydrogen and helium in their cores to
 
 {{< resource 9f8b720f-c11f-9163-73c9-3c98f8a6aa4c >}}
 
-Associated Book Chapters from _Searching for the Oldest Stars: Ancient Relics from the Early Universe_
+**Associated Book Chapters from** _**Searching for the Oldest Stars: Ancient Relics from the Early Universe**_
 
 - Chapter 3: Stars, Stars, More Stars
 - Chapter 4: Stellar Evolution—From Birth to Death
