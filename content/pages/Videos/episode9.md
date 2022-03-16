@@ -14,6 +14,6 @@ How did elements heavier than iron form? Elements like silver, gold, platinum, l
 
 {{< resource 76f8cf46-ee18-662c-1970-a0ae17905c99 >}}
 
-### Associated Book Chapter from _Searching for the Oldest Stars: Ancient Relics from the Early Universe_
+**Associated Book Chapter from** _**Searching for the Oldest Stars: Ancient Relics from the Early Universe**_
 
 - Chapter 5: Neutron-Capture Processes and the Heaviest Elements
