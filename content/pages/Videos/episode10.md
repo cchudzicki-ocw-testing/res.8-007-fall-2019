@@ -14,7 +14,7 @@ For astronomers, spectrographs mounted on the largest telescopes are a primary t
 
 {{< resource e3144740-c8a4-8134-f464-860faf4e1592 >}}
 
-Associated Book Chapters from _Searching for the Oldest Stars: Ancient Relics from the Early Universe_
+**Associated Book Chapters from** _**Searching for the Oldest Stars: Ancient Relics from the Early Universe**_
 
 - Chapter 7: Tales Told by Light
 - Chapter 8: Let’s Go Observe Some Stars!
