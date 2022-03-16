@@ -14,9 +14,8 @@ After the Big Bang, the universe was composed of just hydrogen, helium, and tiny
 
 {{< resource ebca74ab-d90d-db67-4e32-f89ba110122b >}}
 
-Associated Book Chapters from _Searching for the Oldest Stars: Ancient Relics from the Early Universe_
-------------------------------------------------------------------------------------------------------
+**Associated Book Chapters from** _**Searching for the Oldest Stars: Ancient Relics from the Early Universe**_
 
-*   Chapter 1: What Is Stellar Archaeology?
-*   Chapter 2: Two Centuries of Pursuing Stars
-*   Chapter 3: Stars, Stars, More Stars
+- Chapter 1: What Is Stellar Archaeology?
+- Chapter 2: Two Centuries of Pursuing Stars
+- Chapter 3: Stars, Stars, More Stars
