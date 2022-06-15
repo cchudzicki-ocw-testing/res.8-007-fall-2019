@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains videos, descriptions, and related content.
 learning_resource_types:
 - Videos
 ocw_type: SupplementalResourceSection

@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: 'In this section, Professor Anna Frebel responds to questions about her
+  experience creating and recording the short video course Cosmic Origin of the Chemical
+  Elements '
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: ThisCourseAtMITSection
