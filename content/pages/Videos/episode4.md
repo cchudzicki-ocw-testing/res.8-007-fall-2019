@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Professor Anna Frebel describes how massive exploding stars have contributed
+  elements to the universe thus setting in motion the cosmic chemical evolution.
 draft: false
 learning_resource_types:
 - Videos

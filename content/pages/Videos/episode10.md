@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: Professor Anna Frebel describes how spectrographs mounted on the largest
+  telescopes are a primary tool for astronomers to carry out their work. This is particularly
+  true for stellar archaeology studies.
 draft: false
 learning_resource_types:
 - Videos

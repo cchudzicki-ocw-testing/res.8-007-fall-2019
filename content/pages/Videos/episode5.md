@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: 'Professor Anna Frebel explains stellar archaeology -- studying the oldest
+  stars in the universe because their chemical composition tells about the gas from
+  which they formed a long time ago. '
 draft: false
 learning_resource_types:
 - Videos

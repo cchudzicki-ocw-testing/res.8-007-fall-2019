@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: 'Professor Anna Frebel describes what happened after the Big Bang when
+  the universe was composed of just hydrogen, helium and tiny amounts of lithium.
+  With time, heavier elements were forged in the many generations of stars. '
 draft: false
 learning_resource_types:
 - Videos

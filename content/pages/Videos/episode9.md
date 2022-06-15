@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: Professor Anna Frebel describes how elements heavier than iron form.
+  Two main processes describe this heavy element formation which occurs in red giant
+  stars and neutron star mergers.
 draft: false
 learning_resource_types:
 - Videos

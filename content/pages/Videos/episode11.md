@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: 'Professor Anna Febel describes how all the topics discussed in this
+  mini lecture series are connected. Because in the universe, everything depends on
+  everything! '
 draft: false
 learning_resource_types:
 - Videos

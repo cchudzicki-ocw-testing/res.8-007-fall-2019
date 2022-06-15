@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: Professor Anna Frebel introduces the course. She explains how everything
+  around us is made from different elements and asks the question "have you ever wondered
+  where all these elements came from?"
 draft: false
 learning_resource_types:
 - Videos

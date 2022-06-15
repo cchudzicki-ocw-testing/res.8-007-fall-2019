@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'Professor Anna Frebel continues the discussion of nuclear fusion with
+  a focus on the processes that occur in the center of stars. '
 draft: false
 learning_resource_types:
 - Videos

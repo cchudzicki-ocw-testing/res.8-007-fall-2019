@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: 'Professor Anna Frebel describes the process of chemical evolution whereby
+  later generations of stars are formed formed from gas enriched in metals that were
+  previously forged in the cores of the first stars. '
 draft: false
 learning_resource_types:
 - Videos

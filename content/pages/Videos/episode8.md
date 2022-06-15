@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'Professor Anna Frebel explains how the technique of spectroscopy allows
+  astronomers to study the composition of stars. '
 draft: false
 learning_resource_types:
 - Videos

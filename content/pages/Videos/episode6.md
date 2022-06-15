@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: Professor Anna Frebel explains that stars are able to continue to shine
+  for millions and billions of years due to the ongoing fusion of hydrogen and other
+  elements in the core region of each star.
 draft: false
 learning_resource_types:
 - Videos
